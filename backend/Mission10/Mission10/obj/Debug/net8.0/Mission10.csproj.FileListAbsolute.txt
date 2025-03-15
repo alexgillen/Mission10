@@ -135,3 +135,4 @@ C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Mission 1
 C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Mission 10\backend\Mission10\Mission10\obj\Debug\net8.0\Mission10.pdb
 C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Mission 10\backend\Mission10\Mission10\obj\Debug\net8.0\Mission10.genruntimeconfig.cache
 C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Mission 10\backend\Mission10\Mission10\obj\Debug\net8.0\ref\Mission10.dll
+C:\Users\gille\OneDrive\Documents\University\Enterprise Dev Hilton 413\Mission 10\backend\Mission10\Mission10\obj\Debug\net8.0\Mission10.sourcelink.json

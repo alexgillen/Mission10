@@ -45,6 +45,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors(x => x.WithOrigins("http://localhost:3000"));
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
