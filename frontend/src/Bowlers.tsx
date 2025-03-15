@@ -14,14 +14,45 @@ function Bowlers() {
     }, []);
     
     return (
-        <div>
+        <>
             <h1>Bowlers</h1>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Last Name</th>
+                            <th>Middle Initial</th>
+                            <th>Address</th>
+                            <th>City</th>
+                            <th>State</th>
+                            <th>Zip</th>
+                            <th>Phone Number</th>
+                            <th>Team ID</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {bowlers.map((b) => (
+                            <tr key={b.bowlerId}>
+                                <td>{b.bowlerFirstName}</td>
+                                <td>{b.bowlerLastName}</td>
+                                <td>{b.bowlerMiddleInit}</td>
+                                <td>{b.bowlerAddress}</td>
+                                <td>{b.bowlerCity}</td>
+                                <td>{b.bowlerState}</td>
+                                <td>{b.bowlerZip}</td>
+                                <td>{b.bowlerPhoneNumber}</td>
+                                <td>{b.teamId}</td>
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+{/* 
             <ul>
                 {bowlers.map((b) => (
                     <li key={b.bowlerId}>{b.bowlerFirstName}</li>
                 ))}
-            </ul>
-        </div>
+            </ul> */}
+        </>
     );
 }
 
