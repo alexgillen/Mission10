@@ -1,3 +1,8 @@
+export type Team = {
+    teamId: number;
+    teamName: string;
+}
+
 export type bowler = {
     bowlerId: number;
     bowlerFirstName: string;
@@ -10,5 +15,5 @@ export type bowler = {
     bowlerPhoneNumber: string;
     // Now the foreign key part: 
     teamId: number;
-    team? : string;
+    team? : Team;
 }

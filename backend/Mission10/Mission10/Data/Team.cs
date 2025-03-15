@@ -9,7 +9,5 @@ namespace Mission10.Data
         public int TeamId { get; set; }
         [Required]
         public string TeamName { get; set; }
-        [Required]
-        public List<BowlingLeague> Bowlers { get; set; }
     }
 }

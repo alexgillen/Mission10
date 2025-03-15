@@ -148,7 +148,6 @@
       },
       "Teams": {
         "required": [
-          "bowlers",
           "teamName"
         ],
         "type": "object",
@@ -160,12 +159,6 @@
           "teamName": {
             "minLength": 1,
             "type": "string"
-          },
-          "bowlers": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/BowlingLeague"
-            }
           }
         },
         "additionalProperties": false

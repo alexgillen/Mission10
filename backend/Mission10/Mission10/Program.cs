@@ -16,29 +16,6 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-
-//This is for testing the DB connection
-//using (var scope = app.Services.CreateScope())
-//{
-//    var context = scope.ServiceProvider.GetRequiredService<BowlerDbContext>();
-//    try
-//    {
-//        if (context.Database.CanConnect())
-//        {
-//            Console.WriteLine(" Successfully connected to the database!");
-//        }
-//        else
-//        {
-//            Console.WriteLine(" Database connection failed.");
-//        }
-//    }
-//    catch (Exception ex)
-//    {
-//        Console.WriteLine($" Error: {ex.Message}");
-//    }
-//}
-
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
