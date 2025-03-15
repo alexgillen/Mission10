@@ -8,7 +8,11 @@ function Bowlers() {
         const fetchBowler = async () => {
             const response = await fetch('https://localhost:5000/BowlerLeague');
             const data = await response.json();
-            setBowlers(data);
+
+            //This is to query the DB so we only get specific teams. 
+            const filteredData = data.filter((b: bowler) => b.teamId == 2 || b.teamId == 3);
+
+            setBowlers(filteredData);
         }
         fetchBowler();
     }, []);
@@ -28,6 +32,7 @@ function Bowlers() {
                             <th>Zip</th>
                             <th>Phone Number</th>
                             <th>Team ID</th>
+                            <th>Team Name</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -42,6 +47,7 @@ function Bowlers() {
                                 <td>{b.bowlerZip}</td>
                                 <td>{b.bowlerPhoneNumber}</td>
                                 <td>{b.teamId}</td>
+                                <td>{b.team}</td>
                             </tr>
                         ))}
                     </tbody>

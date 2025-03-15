@@ -10,5 +10,5 @@ export type bowler = {
     bowlerPhoneNumber: string;
     // Now the foreign key part: 
     teamId: number;
-    // team? : Team;
+    team? : string;
 }
