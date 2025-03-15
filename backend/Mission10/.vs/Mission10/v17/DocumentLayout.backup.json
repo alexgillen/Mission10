@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|c:\\users\\gille\\onedrive\\documents\\university\\enterprise dev hilton 413\\mission 10\\backend\\mission10\\mission10\\data\\bowlingleague.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|solutionrelative:mission10\\data\\bowlingleague.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|c:\\users\\gille\\onedrive\\documents\\university\\enterprise dev hilton 413\\mission 10\\backend\\mission10\\mission10\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|solutionrelative:mission10\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|c:\\users\\gille\\onedrive\\documents\\university\\enterprise dev hilton 413\\mission 10\\backend\\mission10\\mission10\\controllers\\bowlerleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|solutionrelative:mission10\\controllers\\bowlerleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|c:\\users\\gille\\onedrive\\documents\\university\\enterprise dev hilton 413\\mission 10\\backend\\mission10\\mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|solutionrelative:mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|c:\\users\\gille\\onedrive\\documents\\university\\enterprise dev hilton 413\\mission 10\\backend\\mission10\\mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6DF6EE-AC55-4738-A9C7-C68051E4835A}|Mission10\\Mission10.csproj|solutionrelative:mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerLeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Controllers\\BowlerLeagueController.cs",
+              "RelativeDocumentMoniker": "Mission10\\Controllers\\BowlerLeagueController.cs",
+              "ToolTip": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Controllers\\BowlerLeagueController.cs",
+              "RelativeToolTip": "Mission10\\Controllers\\BowlerLeagueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:04:24.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Mission10\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Data\\Team.cs",
+              "RelativeToolTip": "Mission10\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:47:26.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingLeague.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Data\\BowlingLeague.cs",
+              "RelativeDocumentMoniker": "Mission10\\Data\\BowlingLeague.cs",
+              "ToolTip": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Data\\BowlingLeague.cs",
+              "RelativeToolTip": "Mission10\\Data\\BowlingLeague.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:32:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "Mission10\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "Mission10\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:30:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission10\\appsettings.json",
+              "ToolTip": "C:\\Users\\gille\\OneDrive\\Documents\\University\\Enterprise Dev Hilton 413\\Mission 10\\backend\\Mission10\\Mission10\\appsettings.json",
+              "RelativeToolTip": "Mission10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:26:23.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
